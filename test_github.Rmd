@@ -1,5 +1,5 @@
 ---
-title: "ESM 206/244 GitHub Testing"
+title: "ESM 206/244 GitHub Testing - Adriane McDonald"
 output: html_document
 ---
 
@@ -7,17 +7,17 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-Type your name (or anything else) HERE: 
+Type your name (or anything else) HERE: Adriane McDonald
 
 Here's some code (change the variable names and values):
 ```{r}
 # Change these variable names and values:
 
-blue <- 10
+pumpkins <- 200
 
-red <- 15
+squash <- 72
 
-purple <- blue/red
+produce <- pumpkins/squash
 
 ```
 
